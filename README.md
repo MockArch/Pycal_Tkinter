@@ -1,5 +1,5 @@
 # Pycal_Tkinter
-A simple GUI calculator written in python using Tkinter library.
+
 
 
 A simple GUI calculator written in python using Tkinter library.
@@ -10,8 +10,12 @@ Libraries           : Tkinter
 Langauge            : Python 2.xx
 
 Instal Tkinter 
-          pip install <Pakage name >
+
+          ```pip install <Pakage name >```
+
+
 How to run the Project 
+
 
 
 1. Open the terminal (cntrl+t)
