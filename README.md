@@ -6,7 +6,11 @@ A simple GUI calculator written in python using Tkinter library.
 
 
 OS                  : Linux (I used Lubuntu)
+
+
 Libraries           : Tkinter
+
+
 Langauge            : Python 2.xx
 
 Instal Tkinter 
